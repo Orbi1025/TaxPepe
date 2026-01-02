@@ -139,7 +139,7 @@
                             (0, r.jsx)(g(), {
                               className: "buy_cta",
                               prefetch: !1,
-                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x86985efd75f4d746173bd63d14d0655fe2e1a42a",
                               children: (0, r.jsx)(u.Z, { text: n.buy_cta }),
                             }),
                             (0, r.jsx)(g(), {
@@ -235,7 +235,7 @@
                       (0, r.jsxs)(g(), {
                         className: "buy_cta",
                         prefetch: !1,
-                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x86985efd75f4d746173bd63d14d0655fe2e1a42a",
                         children: [
                           (0, r.jsx)("img", {
                             src: "/logo.svg",
@@ -514,7 +514,7 @@
                           (0, r.jsx)("span", { children: s.contract }),
                           (0, r.jsx)("span", {
                             children:
-                              "0xcomingsoon",
+                              "0x86985efd75f4d746173bd63d14d0655fe2e1a42a",
                           }),
                         ],
                       }),
@@ -523,7 +523,7 @@
                         children: [
                           (0, r.jsx)("span", { children: s.audit }),
                           (0, r.jsx)("a", {
-                            href: "https://etherscan.io/token/0xcomingsoon",
+                            href: "https://etherscan.io/token/0x86985efd75f4d746173bd63d14d0655fe2e1a42a",
                             target: "_blank",
                             rel: "noreferrer noopener",
                             children: "Audit",

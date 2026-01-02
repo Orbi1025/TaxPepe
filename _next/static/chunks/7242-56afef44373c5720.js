@@ -259,7 +259,7 @@
                             children: (0, l.jsx)(o(), {
                               className: "nav_buy_button",
                               prefetch: !1,
-                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x86985efd75f4d746173bd63d14d0655fe2e1a42a",
                               children: (0, l.jsx)(p.Z, { text: r.sign_up }),
                             }),
                           }),
@@ -317,7 +317,7 @@
                 (0, n.jsx)(s(), {
                   className: "nav_buy_button",
                   prefetch: !1,
-                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x86985efd75f4d746173bd63d14d0655fe2e1a42a",
                   children: "BUY $TEPE NOW",
                 }),
               ],
