@@ -1,0 +1,287 @@
+{
+  "pageProps": {
+    "__lang": "en",
+    "__namespaces": {
+      "common": {
+        "locales": {
+          "en": "English",
+          "pt": "Português",
+          "de": "Deutsch",
+          "es": "Español",
+          "zh": "中文",
+          "fr": "Français",
+          "tr": "Türkçe",
+          "it": "Italiano",
+          "id": "Bahasa Indonesia",
+          "ru": "Русский",
+          "ar": "العربية",
+          "ko": "한국어",
+          "ja": "日本語",
+          "hi": "ভারতীয়",
+          "bn": "বাংলা ভাষা"
+        },
+        "menu": {
+          "list": [
+            { "title": "How To Buy", "target": "_self", "url": "/#how-to-buy" },
+            { "title": "Tokenomics", "target": "_self", "url": "/#tokenomics" },
+            { "title": "Whitepaper", "target": "_blank", "url": "whitepaper" },
+            { "title": "Roadmap", "target": "_self", "url": "/#roadmap" }
+          ],
+          "sign_up": "Buy Now"
+        },
+        "footer": {
+        "seo": {
+          "not_found": {
+            "title": "Not Found | Tax Pepe",
+            "description": ""
+          },
+          "index_page": {
+            "title": "Tax Pepe TEPE - Revolutionary Meme Token Presale",
+            "description": "Tax Pepe ($TEPE) presale is live. Built for meme economics—with burn mechanics, minting platform, and real utility. Join now.",
+            "keywords": [
+              "Best Crypto Presale 2025",
+              "Crypto Presale 2025",
+              "Next 100x Crypto 2025",
+              "Upcoming Crypto Presales",
+              "Meme Coin Presale 2025",
+              "New Crypto Presale Opportunities",
+              "Ethereum Presale Tokens",
+              "Tax Pepe Presale",
+              "$TEPE Crypto Presale",
+              "Buy Tax Pepe",
+              "How to Buy Tax Pepe",
+              "Pepe Crypto Presale",
+              "Crypto Presale Launchpad",
+              "Early Stage Crypto Projects",
+              "Best Meme Coin Presale 2025",
+              "Tax Pepe",
+              "$TEPE Token",
+              "Pepe Crypto",
+              "Pepe Meme Token",
+              "Meme Coins on Ethereum",
+              "Ethereum Meme Coins",
+              "Ethereum Memecoins",
+              "Meme Coins 2025",
+              "Meme Coin Investment",
+              "Best Meme Coins for Investors",
+              "Utility Meme Coins",
+              "Meme Coins with Real Utility",
+              "Meme Coins with Burn",
+              "Meme Coin Crypto Whales",
+              "Meme Coins with Utility",
+              "GameFi Meme Coins",
+              "DeFi Meme Projects",
+              "Crypto Minting Platform",
+              "Mint Meme Coins",
+              "Pepe Crypto Mint",
+              "Crypto with Fixed Supply",
+              "Federal Burn Meme Token",
+              "Federal Reserve Meme",
+              "PayFi Crypto's",
+              "Tax Pepe Meme Coin",
+              "Best Low Cap Meme Coins",
+              "Pepe Crypto Revolution",
+              "Federal Reserve Crypto",
+              "Federal Reserve Bitcoin",
+              "New Meme Coins on Ethereum",
+              "Meme Coins with Staking Rewards"
+            ]
+          },
+          "privacy_page": {
+            "title": "Tax Pepe | Privacy Policy",
+            "description": "Tax Pepe Privacy Policy"
+          },
+          "terms_page": {
+            "title": "Tax Pepe | Terms Of Use",
+            "description": "Tax Pepe Terms Of Use"
+          },
+          "cookie_page": {
+            "title": "PEPE | Cookie Policy",
+            "description": "Tax Pepe Cookie Policy"
+          }
+        }
+      },
+      "home": {
+        "banner": {
+          "title_1": "Tax Pepe",
+          "title_2": "ETH Layer-2",
+          "title_3": "Pay-Fi Economy",
+          "title_4": "Live  Now",
+          "buy_cta": "BUY $TEPE",
+          "tg_cta": "JOIN TELEGRAM",
+          "presale": "Presale",
+          "stage": "Stage",
+          "launch_price": "Launch Price",
+          "usd_raised": "USD Raised:",
+          "token_sold": "Tokens Sold:",
+          "input_eth_1": "Amount in",
+          "input_eth_2": "You Pay:",
+          "input_pepd_1": "Amount in",
+          "input_pepd_2": "You Receive:",
+          "connect_cta": "CONNECT WALLET",
+          "how_to_cta": "How To Buy?",
+          "giveaway": "@PepeDollarETH",
+          "error_cta": "Getting Error? Click Here",
+          "audit": "Tax Pepe is Audited by:"
+        },
+        "about": {
+          "title": "About Tax Pepe",
+          "text_1": "$TEPE is your decentralized antidote to fiat foolishness, A Layer-2 Payment Infrastructure for the Meme Economy. Tax Pepe (TEPE) a digital satire wrapped in code, a financial middle finger to the status quo, and a platform for creating value in a world flooded with valueless fiat.",
+          "text_2": "Tax Pepe (TEPE) is built with layers of meanings utilizing internet culture to power our technological rebellion.",
+          "cta": "BUY"
+        },
+        "how_to_buy": {
+          "title": "How To Buy",
+          "items": [
+            {
+              "key": "1",
+              "title": "Create a Wallet",
+              "text": "Download MetaMask or your preferred Ethereum-compatible wallet. Mobile users: Get MetaMask or Trust Wallet from the App Store or Google Play Store. Desktop users: Download the MetaMask extension for Chrome or Brave at metamask.io."
+            },
+            {
+              "key": "2",
+              "title": "Fund Your Wallet",
+              "text": "Add Ethereum (ETH) to your wallet to purchase TEPE in the presale. Purchase ETH directly inside MetaMask or Trust Wallet,\nOr transfer ETH from another wallet or centralized exchange (like Coinbase or Binance)."
+            },
+            {
+              "key": "3",
+              "title": "Click Buy $TEPE",
+              "text": "Only use the official Tax Pepe website to join the presale.\n⚠️ Never trust random links—always verify you are on the official Tax Pepe site. Select “Buy $TEPE” & Connect your wallet directly on the website."
+            },
+            {
+              "key": "4",
+              "title": "Buy Tax Pepe",
+              "text": "Complete your purchase using your connected wallet. If paying with other cryptocurrencies, secure payments are processed by our trusted third-party provider."
+            }
+          ],
+          "cta": "BUY NOW"
+        },
+        "ecosystem": {
+          "title": "Ecosystem",
+          "fun": "Our minting platform Pepedollar.vip is designed to be an intuitive, no-code dApp that enables TEPE community members to mint their own meme coins and create micro-economies built from the Tax Pepe infrastructure. Our Pepedollar.vip system automates the entire process, including smart contract deployment, bonding curve integration, and decentralized exchange (DEX) connectivity, removing the traditional technical barriers associated with token creation. Developers can choose to pair their memecoins with $TEPE on DEXes to earn 100% of trading fees, while holders benefit from exclusive listing opportunities and marketing boosts, driving both exposure and utility for the Tax Pepe ecosystem.",
+          "gaming": "Tax Pepe mobile gaming applications will serve as a cornerstone for the $TEPE ecosystem—combining meme culture, play-to-earn mechanics, and decentralized tokenomics to create engaging, viral mobile games. These apps will promote $TEPE usage and also serve as an onramp for new users, leveraging Telegram’s global user base and seamless crypto integration. Tax Pepe gaming decentralized culture engine designed to grow $TEPE utility, strengthen its community, and spread meme-powered economics across Web3 and Web2 frontiers.",
+          "puy_fi": "Tax Pepe Payment Protocol, a decentralized financial (De-Fi) layer that bridges into the world of Pay-Fi—payments powered by crypto infrastructure but designed for real-world use. $TEPE serves as the backbone of this hybrid economy, enabling seamless, borderless, and censorship-resistant transactions while injecting culture and community into the payment process. TEPE Wallet Integration & QR Payments Lightweight mobile and browser wallets support $TEPE transfers with one-click transactions. Users can scan QR codes for in-store or online purchases powered by TEPE-enabled plugins, Built-in support for stablecoin micro-payments (e.g., USPD) to allow dual-denomination displays.",
+          "de_fi": "Tax Pepe is developing De-Fi powered financial tools Introducing credit reputation scoring based on staking and transaction activity. Stake $TEPE to back stable coin micro-loans for users in developing markets, Borrowers can unlock micro-credit in $TEPE for real-world expenses or projects. By fusing the decentralized ethos of De-Fi with the simplicity and familiarity of everyday payments, Tax Pepe is creating a meme-first monetary network—where sending value is fun, cultural, and economically inclusive."
+        },
+        "roadmap": {
+          "title": "Roadmap",
+          "items": [
+            {
+              "phase": "1",
+              "title": "Phase",
+              "items": [
+                "Introduction of Tax Pepe",
+                "Smart Contract Deployment",
+                "Tax Pepe KYC Verification",
+                "Strategic Influencer Collabs",
+                "Telegram and X Launch",
+                "Tax Pepe Artwork Release",
+                "Community Engagement Campaigns"
+              ]
+            },
+            {
+              "phase": "3",
+              "title": "Phase",
+              "items": [
+                "Launch $TEPE Telegram-Integrated gaming",
+                "Tax Pepe Gaming Ranking",
+                "$TEPE Staking Plan Reveal",
+                "Strategic Meme Partnerships",
+                "CEX and DEX Listings Reveal",
+                "Develop Ethereum Layer-2 Scaling (Testnet)"
+              ]
+            },
+            {
+              "phase": "2",
+              "title": "Phase",
+              "items": [
+                "Social Influencer Marketing",
+                "$TEPE Presale (6-Stages)",
+                "Launch Presale dashboard",
+                "Release On-Chain Incentives",
+                "“CTO the Dollar” Campaign",
+                "Federal Burn Allocation",
+                "$TEPE Listing Applications"
+              ]
+            }
+          ]
+        },
+        "tokenomics": {
+          "title": "Tokenomics",
+          "supply_title": "$TEPE Token Supply:",
+          "contract": "Contract Address:",
+          "audit": "Tax Pepe (TEPE) smart contract has been audited and verified by Coinsult:"
+        },
+        "faqs": {
+          "title": "FAQ",
+          "list": [
+            {
+              "key": "1",
+              "title": "What is Tax Pepe (TEPE)?",
+              "text": [
+                "Tax Pepe is a meme-powered cryptocurrency built on Ethereum, designed to bring real utility to meme culture. $TEPE combines DeFi, GameFi, and PayFi to create an ecosystem where memes have financial power."
+              ]
+            },
+            {
+              "key": "2",
+              "title": "What is the total supply of $TEPE?",
+              "text": [
+                "The total fixed supply of Tax Pepe is 3.695 billion tokens—there will never be more minted, securing scarcity and long-term value potential."
+              ]
+            },
+            {
+              "key": "3",
+              "title": "What is the official contract address for Tax Pepe?",
+              "text": [
+                "Tax Pepe $TEPE Smart Contract Address: 0xcomingsoon"
+              ]
+            },
+            {
+              "key": "4",
+              "title": "How can I buy Tax Pepe during the presale?",
+              "text": [
+                "You can purchase directly through the official Tax Pepe website by connecting your wallet (e.g., MetaMask) and paying in ETH or other ERC-based cryptocurrencies. Do not attempt to buy $TEPE on Uniswap yet."
+              ]
+            },
+            {
+              "key": "5",
+              "title": "What is Pepedollar?",
+              "text": [
+                "Pepedollar.vip is an upcoming meme-based utility platform where users can mint meme tokens, participate in micro-economies, and access GameFi features—all powered by $TEPE."
+              ]
+            },
+            {
+              "key": "6",
+              "title": "What is the purpose of the Federal Burn?",
+              "text": [
+                "29% of the total supply will be permanently burnt to promote decentralization, boost scarcity, and eliminate team manipulation risks. All $TEPE Tokens unsold during the presale will also be added to the burn wallet. It’s a symbolic meme-liberation event empowering $TEPE holders."
+              ]
+            },
+            {
+              "key": "7",
+              "title": "Is Tax Pepe audited?",
+              "text": [
+                "Yes — the Tax Pepe smart contract has been audited and verified by leading blockchain security firms to ensure maximum safety for investors."
+              ]
+            },
+            {
+              "key": "8",
+              "title": "What is PayFi, and how is Tax Pepe involved?",
+              "text": [
+                "PayFi bridges traditional payments with decentralized finance (DeFi). Tax Pepe integrates PayFi concepts to bring real-world payment utility to meme holders, creating a true meme economy."
+              ]
+            },
+            {
+              "key": "9",
+              "title": "When will $TEPE be listed on exchanges?",
+              "text": [
+                "Listings on top centralized (CEX) and decentralized (DEX) exchanges are planned post-presale. Stay updated via official announcements."
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "__N_SSG": true
+}
